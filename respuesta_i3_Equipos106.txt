@@ -1,0 +1,24 @@
+
+-------------	BETA   ------------------------------
+
+a- ¿Cómo queda el master despúes de estos cambios?
+
+El master queda actualizado a las ramas de jacob y gayan con las modificaciones de alfa
+
+
+
+b- ¿Beta pudo ver todos los cambis que se realizaron?
+
+Si, los mismos fueron notificados mediante notificaciones de GitHub al correo electronico, tambien pudo
+ingresar en las ramas y ver las modificaciones.
+
+
+
+c-¿Que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+git checkout jacob
+git pull
+git checkout main
+git merge jacob
+git push --set-upstream
+
