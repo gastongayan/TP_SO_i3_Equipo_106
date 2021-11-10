@@ -38,3 +38,11 @@ git add .
 git commit -m -s "Cambios Gamma"
 git push
 >>>>>>> origin/jacob
+
+g) git checkout jacob
+vim beta.txt (i + agregar "Florencia Galeano" + :wq)
+ifconfig >> beta.txt
+date "+%T" >> beta.txt
+git add origin jacob
+git commit -m"cambios"
+git push
