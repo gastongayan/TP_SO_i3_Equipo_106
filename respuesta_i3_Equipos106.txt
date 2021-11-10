@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 -------------	BETA   ------------------------------
 
@@ -17,11 +17,12 @@ ingresar en las ramas y ver las modificaciones.
 
 c-¿Que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
 
-git checkout jacob
-git pull
-git checkout main
-git merge jacob
+
+git merge origin/jacob
+git add .
+git commit -m "Actualizado"
 git push --set-upstream
+
 
 =======
 
