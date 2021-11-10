@@ -26,7 +26,7 @@ git push --set-upstream
 
 =======
 
--------------	BETA   ------------------------------
+-------------	GAMMA   ------------------------------
 
 a- ¿Cómo queda el master despúes de estos cambios?
 
